@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Freeman 
-## A Python developer
-##Backend web-developer
-##Medical Laboratory scientist(in training).
+### A Python developer
+###Backend web-developer
+###Medical Laboratory scientist(in training).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freeman-kuch)](https://github.com/anuraghazra/github-readme-stats)
 
