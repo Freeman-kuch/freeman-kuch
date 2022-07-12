@@ -1,7 +1,5 @@
 # Hello, My Name is Freeman.
 
-## **I'm a;**
-
   - **A Python developer**
 
   - **Backend web-developer**
