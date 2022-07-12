@@ -9,11 +9,6 @@
 
 - 🤔 I’m looking for every oppurtunity to learn and Be impactful
 
-Skills:  - PYTHON 
-         - HTML 
-         - MYSQL 
-         - GIT
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freeman-kuch&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freeman-kuch)](https://github.com/anuraghazra/github-readme-stats)
