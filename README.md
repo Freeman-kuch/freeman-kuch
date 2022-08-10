@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Freeman
 
 ####  A Python developer,  Backend web-developer & Medical Laboratory scientist(in training)
-- 🔭 I’m currently working on Python and It's web Frameworks (FLask, Django)
+- 🔭 I’m currently working on Python and It's web Frameworks FLask
 
-- 🌱 I’m currently learning Python Flask web Framework
+- 🌱 I’m currently learning CUX designs
 
 - 👯 I’m looking to collaborate on web project and Python codes in general
 
