@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Freeman
 
-####  A Python developer,  Backend web-developer & Medical Laboratory scientist(in training)
-- 🔭 I’m currently working with Python and It's Web Frameworks FLask and FastAPI
+####  An RPA developer(UIPath),  Backend web-developer & Medical Laboratory scientist
+- 🔭 I’m currently working on Cloud computing (AWS amd Azure)
 
-- 🌱 I’m currently learning CUX designs(AI)
+- 🌱 I am also a Conversational user experience designer(AI)
 
 - 👯 I’m looking to collaborate on web project and Python codes in general
 
