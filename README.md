@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Freeman
 
-####  I am Experinced RPA developer(UIPath),  Backend Engineer, Devops Engineer & Medical Laboratory scientist
+####  I am an Experinced RPA developer(UIPath),  Backend Engineer, Devops Engineer & Medical Laboratory scientist
 - 🔭 I’m currently working on cutting edge solutions for my end users
 
 - 🌱 I am also a Conversational user experience designer(AI)
