@@ -1,11 +1,11 @@
 ### Hi there 👋, My name is Freeman
 
-####  An RPA developer(UIPath),  Backend web-developer & Medical Laboratory scientist
-- 🔭 I’m currently working on Cloud computing (AWS amd Azure)
+####  I am Experinced RPA developer(UIPath),  Backend Engineer, Devops Engineer & Medical Laboratory scientist
+- 🔭 I’m currently working on cutting edge solutions for my end users
 
 - 🌱 I am also a Conversational user experience designer(AI)
 
-- 👯 I’m looking to collaborate on web project and Python codes in general
+- 👯 I’m looking to collaborate on other open source projects and cutting-edge projects.
 
 - 🤔 I’m looking for every oppurtunity to learn and Be impactful
 
